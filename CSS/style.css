@@ -1,24 +1,21 @@
-body 
-    {
+body {
     height: 100%;
     width: fit-content;
     padding: 0;
     background-color:#808080;
-    }
+}
 
-    h1
-        {
+    h1 {
         font-family: 'Times New Roman', Times, serif;
         font-size: 3em;
         color: white;
         margin-left: 40px;
-        }   
+    }   
 
-    div
-        {
+    div {
         height: 300px;
         width: 300px;
         margin-left: 50px;
         margin-top: 20px;
         background-color:#fea500;
-        }
+    }
