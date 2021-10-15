@@ -6,9 +6,19 @@ body
     background-color:#808080;
     }
 
-h1
-    {
-    font-family: Verdana, sans-serif;
-    color: white;
-    size:1em
-    }   
+    h1
+        {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 3em;
+        color: white;
+        margin-left: 40px;
+        }   
+
+    div
+        {
+        height: 300px;
+        width: 300px;
+        margin-left: 50px;
+        margin-top: 20px;
+        background-color:#fea500;
+        }
